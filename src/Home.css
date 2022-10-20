@@ -1,0 +1,60 @@
+.header-container{
+    background-color: blue;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+    color: white;
+
+
+}
+
+.cart-container{
+
+    border: 5px solid rgb(221, 203, 203);
+width: max-content;
+margin-bottom: 20px;
+border-radius: 5px;
+}
+.title{
+    display: flex;
+}
+
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 20px;
+   
+}
+
+.btn{
+    margin-bottom: 10px;
+    background-color: rgb(56, 151, 151);
+}
+.title{
+    width: 30%;
+    
+}
+.welcome{
+    width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.whole-container{
+    margin: 5px 5px;
+}
+.added{
+    display: flex;
+    margin-left: 5px;
+}
+
+.cartvalue{
+    display: flex;
+    
+}
